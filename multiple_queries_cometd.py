@@ -25,7 +25,7 @@ class _Latch(object):
 logging.basicConfig(level=logging.INFO)
 
 # Initialise the library
-client = importio_client.ImportIO(host="http://query.datapunk.io", 
+client = importio.ImportIO(host="http://query.import.io", 
 	userId="YOUR_USER_GUID", 
 	apiKey="YOUR_API_KEY")
 client.connect()
