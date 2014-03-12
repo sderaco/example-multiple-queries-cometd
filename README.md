@@ -1,4 +1,4 @@
-example-multiple-queries-cometd
+Example: Querying n import.io connector with multiple CometD queries
 ===============================
 
 
