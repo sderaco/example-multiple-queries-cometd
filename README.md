@@ -4,7 +4,7 @@ Example: Querying import.io with multiple queries
 
 This script is a quick solution for the use case explained here: http://blog.import.io/post/one-re-direction
 
-It query an import.io connector with multiple CometD queries, saving all the results in a CSV file.
+It queries an import.io connector with multiple CometD queries, saving all the results in a CSV file.
 
 
 Dependancies:
